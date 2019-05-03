@@ -75,12 +75,13 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Extensive Experience and Wide range of Business Domains"
     content = "Put your I.T. operations on auto pilot, while we make sure your business runs smoothly with peace of mind in a secure environment."
-    btnURL = "#services"
+    btnURL = "home"
     btnText = "Start a project with us"
 
     # counter
     [params.counter]
     enable = true
+    URL="#pricing"
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
@@ -98,6 +99,31 @@ custom_css = ["css/custom.css"]
         count = "45"
 
         [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    
+    # counter
+    [params.counter1]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter1.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "120"
+
+        [[params.counter1.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "30"
+
+        [[params.counter1.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "45"
+
+        [[params.counter1.counterItem]]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
