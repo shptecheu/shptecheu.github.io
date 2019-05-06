@@ -23,8 +23,8 @@ summaryLength = 10
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
+    name = "Testimonials"
+    URL = "testimonials"
     weight = 4
 
     [[menu.nav]]
