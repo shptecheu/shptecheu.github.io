@@ -43,7 +43,7 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Welcome to SHP"
+description = "Your future"
 author = "SHP"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -52,12 +52,12 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Shipping solutions to the Cloud"
+    bgImage = "images/slider/banner.jpg"
+    icon = "tf-ion-cloud"
+    heading = "Cloudify your operations"
     content= "Take your business to the cloud in seconds"
     btn = true
-    btnText="Explore Us"
+    btnText="Explore"
     btnURL="#services"
 
     # call to action

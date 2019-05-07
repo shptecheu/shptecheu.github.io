@@ -1,15 +1,20 @@
 enable : true
 heading : About
 headingSpan : Us
+content : Put your I.T. operations on auto pilot, while we make sure your business runs smoothly with peace of mind in a secure environment.
 aboutItem : 
 - icon : tf-tools
-  title : We're Creative
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Cloudification
+  content : We can transition you to the cloud, with the approach of your choosing ( Hybrid, IaaS, PaaS ).
 
 - icon : tf-strategy
-  title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Business Transformation
+  content : We will identify the core tools for running your business ( ERP, CRM ).
+
+- icon : tf-key
+  title : Redundancy
+  content : We will determine the degree of automation required and the necessary failovers in case of disaster ( High Availability, Backups ).
 
 - icon : tf-anchor2
-  title : We're Genius
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Growth
+  content : We will consolidate the tools to share information, increase productivity and standardise processes ( KPIs, Integration, Mobility ).
