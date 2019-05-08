@@ -1,9 +1,9 @@
 enable : true
-image : images/about/about-business-man.jpg
+image : images/about/art-blue-skies-clouds-335907.jpg
 # image : images/about/analysis-blackboard-bubble.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : We offer a Digital Vehicle.
+description : We think of all the infrastructure and tools you need to run your business smoothly with peace of mind and efficiency.
+description2 : We provide a secure environment to help you evolve your business and leverage your existing strengths and turn it into profits.
 aboutItem : 
   - icon : tf-mobile
     title : Mobility
