@@ -12,10 +12,9 @@
                 </div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
-
             {{ range .Site.Data.about.aboutItem }}
             {{"<!-- About item -->" | safeHTML}}
-            <div class="col-lg-5 text-center wow fadeInUp" data-wow-duration="500ms">
+            <div class="col-lg-6 text-center wow fadeInUp" data-wow-duration="500ms">
                 <div class="block">
                     <div class="icon-box">
                         {{with .icon}}<i class="{{ . }}"></i>{{ end }}
