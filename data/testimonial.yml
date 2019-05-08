@@ -2,47 +2,27 @@ enable : true
 bgImage : images/backgrounds/bg-2.jpg
 headingSpan : Testimonials
 testimonialItem :
-  - name : Jonathon Andrew
+  - name : Marlon Agius
     image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date : Oct 26, 2018
+    content : Reliable and Timely. I look forward to working with you again!
     
-  - name : Jonathon Andrew
+  - name : Jonathan Vella
     image : images/team/client-2.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date : Jan 10, 2019
+    content : Taking my business on the cloud with you was the best decision. Instant results, more employees and less support calls.
     
-  - name : Jonathon Andrew
+  - name : Kelly Mercieca (Founder)
     image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date : Jun 6, 2018
+    content : My business was able to grow after years of suppression. It has reached markets I never knew it could and it was all made possible by SHP. Kudos!
   
-  - name : Jonathon Andrew
+  - name : Antoine Formosa (CFO)
     image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date : May 12, 2018
+    content : Our issue was we were spending too much on tehcnical infrastructure. SHP helped us to control costs and base decisions on predictable numbers.
     
-  - name : Jonathon Andrew
+  - name : Dunstan Falzon (Manager)
     image : images/team/client-2.jpg
     date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    
-  - name : Jonathon Andrew
-    image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  
-  - name : Jonathon Andrew
-    image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    
-  - name : Jonathon Andrew
-    image : images/team/client-2.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    
-  - name : Jonathon Andrew
-    image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content : Our data warehouse was migrated to the cloud and access to the data in realtime was a Godsend. I can now manage my team and keep on top of the sales targets.

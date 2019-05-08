@@ -4,30 +4,13 @@ headingSpan : Team
 teamMember :
   - image : images/team/team-1.jpg
     name : Michael Camilleri
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    designation : Partner/Founder
+    description : Software Architect and Azure Certified Professional.
 
   - image : images/team/team-2.jpg
     name : Robert Mifsud
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    designation : Partner/Founder
+    description : Cloud Certified Professional and Electrical Engineer.
+   
  
  
