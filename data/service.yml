@@ -6,22 +6,22 @@ serviceItem :
     title : Workshops
     content : We spend a session to understand where the business is going and the timeframes in place. We will bring the tools necessary and conduct this with C-level officials.
     
-  - icon : tf-globe
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-ion-cloud
+    title : Infrastructure
+    content : We will spin and scale your infrastructure depending on use and consumption. We will deploy new solutions and keep updates coming.
     
   - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Data
+    content : Data is sacred and of optimal importance. We will help you secure it and keep in line with GDPR. We will also keep contant backups.
     
   - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Market Trends
+    content : We will help you leverage existing assets and transform them into revenue generating avenues or connect to external products to increase customer value.
     
   - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Mobility
+    content : We will help you take your business wherever you need, with no geographical barriers or restrictions. The flexibility you need can also be addressed on the fly.
     
-  - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-linegraph
+    title : ROI
+    content : Results will be visible from day 1. Any addition we maketo your setup will either increase your value given to your customers or streamline your own operations.
