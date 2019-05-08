@@ -5,10 +5,18 @@ title : We’re A Digital Design Agency.
 description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 aboutItem : 
-  - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-mobile
+    title : Mobility
+    content : Makae your data accessible to your stakeholders wherever they are, while you keep on top of your business with minimal distractions.
     
   - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Governance
+    content : Control in totally in your hands - assigning quotas to control spending and restricting resources during down time can control expenses.
+
+  - icon : tf-circle-compass
+    title : Innovation
+    content : New business lines can be explored with emerging technologies and measured according to immediate ROI rather than buying products blindly.
+    
+  - icon : tf-strategy
+    title : Strategy
+    content : We have been consultants for the Government and large companies in the private sector. We can help you align with the market and secure a better foothold.

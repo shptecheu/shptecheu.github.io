@@ -65,7 +65,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Extensive Experience and Wide range of Business Domains"
     content = "Put your I.T. operations on auto pilot, while we make sure your business runs smoothly with peace of mind in a secure environment."
-    btnURL = "home"
+    btnURL = "#services"
     btnText = "Start a project with us"
 
     # counter

@@ -3,10 +3,10 @@ heading : Our
 headingSpan : Services
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Workshops
+    content : We spend a session to understand where the business is going and the timeframes in place. We will bring the tools necessary and conduct this with C-level officials.
     
-  - icon : tf-ion-laptop
+  - icon : tf-globe
     title : Responsive Design
     content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     
