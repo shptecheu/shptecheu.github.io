@@ -10,12 +10,6 @@ contactDetails :
   - icon : tf-map-pin
     info : "Somewhere in the cloud"
     
-  - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
-    
-  - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
-    
   - icon : tf-ion-ios-email-outline
     info : "Email: shp.tech.eu@gmail.com"
     
