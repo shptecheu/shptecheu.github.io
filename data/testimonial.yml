@@ -3,7 +3,7 @@ bgImage : images/backgrounds/bg-2.jpg
 headingSpan : Testimonials
 testimonialItem :
   - name : Marlon Agius
-    image : images/team/client-1.jpg
+    image : images/team/adult-businessman-coffee.jpg
     date : Oct 26, 2018
     content : Reliable and Timely. I look forward to working with you again!
     
@@ -13,14 +13,14 @@ testimonialItem :
     content : Taking my business on the cloud with you was the best decision. Instant results, more employees and less support calls.
     
   - name : Kelly Mercieca (Founder)
-    image : images/team/team-4.jpg
+    image : images/team/adult-businesswomman.jpg
     date : Jun 6, 2018
     content : My business was able to grow after years of suppression. It has reached markets I never knew it could and it was all made possible by SHP. Kudos!
   
   - name : Antoine Formosa (CFO)
     image : images/team/team-3.jpg
     date : May 12, 2018
-    content : Our issue was we were spending too much on tehcnical infrastructure. SHP helped us to control costs and base decisions on predictable numbers.
+    content : Our issue was we were spending too much on technical infrastructure. SHP helped us to control costs and base decisions on predictable numbers.
     
   - name : Dunstan Falzon (Manager)
     image : images/team/team-2.jpg
