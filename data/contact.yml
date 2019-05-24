@@ -8,8 +8,10 @@ mapLatitude : 51.5223477
 mapLongitude: -0.1622023
 contactDetails :
   - icon : tf-map-pin
+    link : "#contact-us"
     info : "Somewhere in the cloud"
     
   - icon : tf-ion-ios-email-outline
+    link : "mailto:shp.tech.eu@gmail.com"
     info : "Email: shp.tech.eu@gmail.com"
     
