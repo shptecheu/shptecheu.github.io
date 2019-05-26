@@ -28,8 +28,12 @@ serviceItem :
 
   - icon : tf-gears
     title : Manufacturing
-    content : Integration with manufacuring machinery through the use of various protocols such as EtherCAT, RS232, RS485 and Modbus.
+    content : Integration with manufacuring machinery through the use of various protocols such as EtherCAT, RS232, RS485 and Modbus. Consolidating assembly machinery with business proccesses digitally.
 
-  - icon : tf-speedometer
+  - icon : tf-ion-thermometer
     title : IOT
-    content : Monitoring of OEE(Overall Equipment Effectivness) through the use of IOT devices combined with availability offered with the cloud.
+    content : Monitoring of machinery productivity parameters such as OEE(Overall Equipment Effectivness) through the use of IOT devices reducing downtime and providing real-time preventive maintainance scheduling.
+  
+  - icon : tf-speedometer
+    title : Dashboards
+    content : Providing mobile friendly real-time dashboards and notifications for the business's vital signs enhancing overall agility and reactivness.
