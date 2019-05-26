@@ -25,3 +25,11 @@ serviceItem :
   - icon : tf-linegraph
     title : ROI
     content : Results will be visible from day 1. Any addition we make to your setup will either increase your value given to your customers or streamline your own operations.
+
+  - icon : tf-linegraph
+    title : Manufacturing
+    content : Integration with manufacuring machinery through the use of various protocols like EtherCAT, RS232, RS485 and Modbus.
+
+  - icon : tf-linegraph
+    title : IOT
+    content : Monitoring of OEE(Overall Equipment Effectivness) through the use of IOT devices combined with availability offered with the cloud.
