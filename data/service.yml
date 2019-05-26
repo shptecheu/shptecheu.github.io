@@ -28,7 +28,7 @@ serviceItem :
 
   - icon : tf-linegraph
     title : Manufacturing
-    content : Integration with manufacuring machinery through the use of various protocols like EtherCAT, RS232, RS485 and Modbus.
+    content : Integration with manufacuring machinery through the use of various protocols such as EtherCAT, RS232, RS485 and Modbus.
 
   - icon : tf-linegraph
     title : IOT
