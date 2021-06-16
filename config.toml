@@ -41,8 +41,8 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 description = "Your future"
 author = "SHP"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
-custom_css = ["css/custom.css"]
+# googleAnalitycsID = "Your ID"
+# custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
