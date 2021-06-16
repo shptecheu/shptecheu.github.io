@@ -1,20 +1,20 @@
 enable : true
 heading : Domain
 headingSpan : Specialisations
-content : Put your I.T. operations on auto pilot, while we make sure your business runs smoothly with peace of mind in a secure environment.
+content : Technial Strategy is core to Digital Presence. Having the right systems in place kickstarts the company's journey to a whole new level.
 aboutItem : 
 - icon : tf-tools
   title : Cloudification
-  content : We can transition you to the cloud, with the approach of your choosing ( Hybrid, IaaS, PaaS ).
+  content : Outsource your IT operations to the cloud, we will worry with the details.
 
 - icon : tf-strategy
-  title : Business Transformation
-  content : We will identify the core tools for running your business ( ERP, CRM ).
+  title : Business Strategy
+  content : Tech consultancy on Business Strategy, Technical objectives and Security.
 
 - icon : tf-key
   title : Redundancy
-  content : We will determine the degree of automation required and the necessary failovers in case of disaster ( High Availability, Backups ).
+  content : Technical systems do fail from time to time. Being prepared lets you focus on more important matters.
 
 - icon : tf-anchor2
-  title : Growth
-  content : We will consolidate the tools to share information, increase productivity and standardise processes ( KPIs, Integration, Mobility ).
+  title : Integration
+  content : Get the most out of your tech with the right tools. We will take care of the integration to ease your workflow.

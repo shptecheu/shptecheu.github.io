@@ -4,7 +4,7 @@ headingSpan : Services
 serviceItem :
   - icon : tf-globe
     title : Workshops
-    content : We spend a session to understand where the business is going and the timeframes in place. We will bring the tools necessary and conduct this with C-level officials.
+    content : A dedicated session to understand where the business is going and the timeframes in place. We will bring the tools necessary and conduct this with C-level officials.
     
   - icon : tf-ion-cloud
     title : Infrastructure
@@ -12,7 +12,7 @@ serviceItem :
     
   - icon : tf-genius
     title : Data
-    content : Data is sacred and of optimal importance. We will help you secure it and keep in line with GDPR. We will also keep constant backups.
+    content : Data is sacred and of optimal importance. We will help you secure it and keep in line with GDPR. Security and Confidentiality is guaranteed.
     
   - icon : tf-dial
     title : Market Trends

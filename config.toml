@@ -49,8 +49,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/banner.jpg"
     icon = "tf-ion-cloud"
-    heading = "Cloudify your operations"
-    content= "Take your business to the cloud in seconds"
+    heading = "Digital Presence"
+    content= "Take your business to the next level"
     btn = true
     btnText="Explore"
     btnURL="#services"
@@ -58,10 +58,10 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Extensive Experience and Wide range of Business Domains"
-    content = "Put your I.T. operations on auto pilot, while we make sure your business runs smoothly with peace of mind in a secure environment."
+    title = "Digital Presence"
+    content = "Present your services to prospects in the most appealing manner."
     btnURL = "#services"
-    btnText = "Start a project with us"
+    btnText = "Get Started"
 
     # counter
     [params.counter]
@@ -71,17 +71,17 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
-        count = "120"
+        count = "118"
 
         [[params.counter.counterItem]]
         title = "Projects completed"
         icon = "tf-ion-archive"
-        count = "30"
+        count = "63"
 
         [[params.counter.counterItem]]
         title = "Positive feedback"
         icon = "tf-ion-thumbsup"
-        count = "45"
+        count = "147"
 
         [[params.counter.counterItem]]
         title = "Cups of Coffee"

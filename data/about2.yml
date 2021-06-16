@@ -2,8 +2,8 @@ enable : true
 image : images/about/art-blue-skies-clouds-335907.jpg
 # image : images/about/analysis-blackboard-bubble.jpg
 title : We offer a Digital Vehicle.
-description : We think of all the infrastructure and tools you need to run your business smoothly with peace of mind and efficiency.
-description2 : We provide a secure environment to help you evolve your business and leverage your existing strengths and turn it into profits.
+description : We take care of all the infrastructure and tools you need to run your business smoothly with peace of mind and efficiency.
+description2 : Digital Presence amplies your strengths and provides better Return on Investment (ROI).
 aboutItem : 
   - icon : tf-mobile
     title : Mobility
@@ -15,7 +15,7 @@ aboutItem :
 
   - icon : tf-circle-compass
     title : Innovation
-    content : New business lines can be explored with emerging technologies and measured according to immediate ROI rather than buying products blindly.
+    content : New business opportunities can be explored with emerging technologies and measured according to immediate ROI rather than buying products blindly.
     
   - icon : tf-strategy
     title : Strategy
