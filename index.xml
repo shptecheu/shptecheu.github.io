@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHP</title>
+    <link>https://shptecheu.github.io/</link>
+    <description>Recent content on SHP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Apr 2019 18:46:56 +0200</lastBuildDate>
+    
+	<atom:link href="https://shptecheu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>https://shptecheu.github.io/home/</link>
+      <pubDate>Tue, 30 Apr 2019 18:46:56 +0200</pubDate>
+      
+      <guid>https://shptecheu.github.io/home/</guid>
+      <description>Heading   draft: false [params.counter] icon : &amp;ldquo;images/backgrounds/bg-1.</description>
+    </item>
+    
+  </channel>
+</rss>
