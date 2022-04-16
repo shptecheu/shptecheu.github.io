@@ -1,7 +1,6 @@
 ---
 title: "Terms"
 date: 2022-04-16T13:40:51+02:00
-draft: true
 ---
 
 #### **Terms and Conditions**
