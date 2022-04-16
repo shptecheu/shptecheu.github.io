@@ -91,5 +91,9 @@ author = "SHP"
     # footer
     [params.footer]
         copyright = "SHP"
-        copyrightURL = "http://www.shp.com/privacy"
+        copyrightURL = "/privacy"
+        terms = "Terms and Conditions"
+        termsURL = "/terms"
+        privacy = "Privacy Policy"
+        privacyURL = "/privacy"
 
