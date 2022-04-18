@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>shptecheu.github.io | Website</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="shptecheu.github.io" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Website" />
+<meta property="og:description" content="Website" />
+<link rel="canonical" href="https://shptecheu.github.io/themes/meghna-hugo/exampleSite/content/blog/installation.html" />
+<meta property="og:url" content="https://shptecheu.github.io/themes/meghna-hugo/exampleSite/content/blog/installation.html" />
+<meta property="og:site_name" content="shptecheu.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="shptecheu.github.io" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Website","headline":"shptecheu.github.io","url":"https://shptecheu.github.io/themes/meghna-hugo/exampleSite/content/blog/installation.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=dea25e767af9fe036bb22b724f01adc7424392db">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://shptecheu.github.io/">shptecheu.github.io</a></h1>
+      
+
+      <p>+++
+title = “How To Setup Meghna Hugo”
+date = “2019-3-06T21:49:20+02:00”
+description = “This is meta description for blog page”
+tags = [“golang”, “programming”, “theme”, “hugo”]
+categories = [“starting”]
+author = “Themefisher”
+image = “images/blog/meghna.png”
++++</p>
+
+<h2 id="install-this-template-by-following-those-simple-steps">Install this template by following those simple steps:</h2>
+
+<h3 id="step-1--hugo-installation">STEP-1 : Hugo installation</h3>
+
+<p>Check this link below for install hugo on your computer.
+<a href="https://gohugo.io/getting-started/installing/">hugo install documentation</a></p>
+
+<h3 id="step-2--create-your-project">STEP-2 : Create your project</h3>
+
+<p>Hugo provides a <code class="language-plaintext highlighter-rouge">new</code> command to create a new website.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hugo new site &lt;new_project&gt;
+</code></pre></div></div>
+
+<h3 id="step-3--install-the-theme">STEP-3 : Install the theme</h3>
+<p>Run this command</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hugo new site meghna-hugo
+</code></pre></div></div>
+<p>and then go to the themes folder inside of meghna-hugo folder. You can also use this command <code class="language-plaintext highlighter-rouge">cd meghna-hugo/themes</code> for going to this folder.
+Then run the command</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone git@github.com:themefisher/meghna-hugo.git
+</code></pre></div></div>
+
+<p>Alternatively, you can <a href="https://github.com/themefisher/meghna-hugo/archive/master.zip">download the theme as .zip</a> file and extract it in the <code class="language-plaintext highlighter-rouge">themes</code> directory</p>
+
+<p>After that you need to go to the <code class="language-plaintext highlighter-rouge">meghna-hugo/exampleSite</code> folder and copy or cut all the elements, and now go back to the root folder and paste it here.</p>
+
+<p>open the command prompt again and run <code class="language-plaintext highlighter-rouge">cd ../</code> command for go back to the root folder.</p>
+
+<h3 id="step-4--host-locally">STEP-4 : Host locally</h3>
+
+<p>Launching the website locally by using the following command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hugo serve
+</code></pre></div></div>
+
+<p>Go to <code class="language-plaintext highlighter-rouge">http://localhost:1313</code></p>
+
+<p>Or you can check this video documentation for installing this template:</p>
+
+<h3 id="step-5--basic-configuration">STEP-5 : Basic configuration</h3>
+
+<p>When building the website, you can set a theme by using <code class="language-plaintext highlighter-rouge">--theme</code> option. However, we suggest you modify the configuration file (<code class="language-plaintext highlighter-rouge">config.toml</code>) and set the theme as the default.</p>
+
+<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Change the default theme to be use when building the site with Hugo</span>
+<span class="py">theme</span> <span class="p">=</span> <span class="s">"meghna-hugo"</span>
+</code></pre></div></div>
+
+<h3 id="step-6--create-your-first-content-pages">STEP-6 : Create your first content pages</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hugo new blog/post-name.md
+</code></pre></div></div>
+
+<h3 id="step-7--build-the-website">STEP-7 : Build the website</h3>
+
+<p>When your site is ready to deploy, run the following command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hugo
+
+# You can also create a minified version by using this command:
+hugo--minify
+
+</code></pre></div></div>
+
+<p>A <code class="language-plaintext highlighter-rouge">public</code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

@@ -1,0 +1,99 @@
+baseURL = "https://shptecheu.github.io/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "SHP"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+  
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Testimonials"
+    URL = "testimonials"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 6
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Your future"
+author = "SHP"
+# Google Analitycs
+# googleAnalitycsID = "Your ID"
+# custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/banner.jpg"
+    icon = "tf-ion-cloud"
+    heading = "Digital Presence"
+    content= "Take your business to the next level"
+    btn = true
+    btnText="Explore"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Digital Presence"
+    content = "Present your services to prospects in the most appealing manner."
+    btnURL = "#services"
+    btnText = "Get Started"
+
+    # counter
+    [params.counter]
+    enable = true
+    URL="#pricing"
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "118"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "63"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "147"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "SHP"
+        copyrightURL = "/privacy"
+        terms = "Terms and Conditions"
+        termsURL = "/terms"
+        privacy = "Privacy Policy"
+        privacyURL = "/privacy"
+
