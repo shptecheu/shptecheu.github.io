@@ -3,7 +3,7 @@ heading : Domain
 headingSpan : Specialisations
 content : Technial Strategy is core to Digital Presence. Having the right systems in place kickstarts the company's journey to a whole new level.
 aboutItem : 
-- icon : tf-tools
+- icon : tf-telescope
   title : Cloudification
   content : Outsource your IT operations to the cloud, we will worry with the details.
 
@@ -11,9 +11,9 @@ aboutItem :
   title : Business Strategy
   content : Tech consultancy on Business Strategy, Technical objectives and Security.
 
-- icon : tf-key
-  title : Redundancy
-  content : Technical systems do fail from time to time. Being prepared lets you focus on more important matters.
+- icon : tf-toolbox
+  title : Toolset
+  content : Leverage the best tools for optimal outcomes. Benefits start from day 1!
 
 - icon : tf-anchor2
   title : Integration

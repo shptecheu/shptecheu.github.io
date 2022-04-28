@@ -48,7 +48,7 @@ author = "SHP"
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/banner.jpg"
+    bgImage = "images/slider/banner.webp"
     icon = "tf-ion-cloud"
     heading = "Digital Presence"
     content= "Take your business to the next level"
@@ -68,7 +68,7 @@ author = "SHP"
     [params.counter]
     enable = true
     URL="#pricing"
-    bgImage = "images/backgrounds/bg-1.jpg"
+    bgImage = "images/backgrounds/bg-1.webp"
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"

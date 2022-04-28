@@ -2,12 +2,12 @@ enable : false
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
+  - image : images/team/team-1.webp
     name : Michael Camilleri
     designation : Partner/Founder
     description : Software Architect and Azure Certified Professional.
 
-  - image : images/team/team-2.jpg
+  - image : images/team/team-2.webp
     name : Robert Mifsud
     designation : Partner/Founder
     description : Cloud Certified Professional and Electrical Engineer.
